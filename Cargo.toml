@@ -1,0 +1,11 @@
+[package]
+name = "Rust-Team-Info"
+version = "0.1.0"
+authors = ["Frytek <flubbet@gmail.com>"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+requests = "0.0.30"
+scraper = "0.11.0"
